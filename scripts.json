@@ -1,0 +1,15 @@
+{
+  "scripts": [
+    "src/00-core.js",
+    "src/10-assets.js",
+    "src/20-environment.js",
+    "src/30-flight-model.js",
+    "src/40-autopilot.js",
+    "src/45-atc.js",
+    "src/50-instruments.js",
+    "src/60-drone.js",
+    "src/70-ui.js",
+    "src/75-replay.js",
+    "src/80-main.js"
+  ]
+}

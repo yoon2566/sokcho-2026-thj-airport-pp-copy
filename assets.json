@@ -1,0 +1,9 @@
+{
+  "airliner": "assets/airliner.glb",
+  "cockpit": "assets/cockpit.glb",
+  "drone": "assets/drone.glb",
+  "runway": "assets/runway.glb",
+  "ring": "assets/ring.glb",
+  "airport_incheon": "assets/airport_incheon.glb",
+  "airport_jeju": "assets/airport_jeju.glb"
+}
