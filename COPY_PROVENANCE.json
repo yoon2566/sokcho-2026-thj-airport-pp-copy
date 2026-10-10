@@ -5,5 +5,10 @@
   "originalRepository": "https://github.com/yoon2566/sokcho-2026-17-airport-pp",
   "submittedSource": "C:\\Users\\User\\Desktop\\속초고\\30_학생결과물_AWS_20261007\\탁효진_30723\\압축해제\\flygame\\flygame\\sokcho-2026-17-airport-pp",
   "sourceSha256": "2f9771bb0c2b171e299a362b5eafe0cc1858855181544a45a9e1fefd453b7658",
-  "originalGameUnmodified": true
+  "originalGameUnmodified": true,
+  "copyChanges": [
+    "Game title and footer identify borrower and preserve original creator credit",
+    "Browser records use airportpp.copy.thj keys separate from original"
+  ],
+  "finalSha256": "637f4bbae419a39cccc2af7c377f630292464826fb0e9c17d9c58afc5399bd02"
 }
