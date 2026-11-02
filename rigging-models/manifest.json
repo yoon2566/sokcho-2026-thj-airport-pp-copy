@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "addedOn": "2026-11-02",
+  "studentNumber": "04-copy",
+  "sourceStudentNumber": 17,
+  "status": "assets_only_not_integrated",
+  "warning": "게임 조작, 외형 변형, 충돌 및 재시작은 실제 게임에 연결한 후 확인해야 합니다.",
+  "models": [
+    {
+      "file": "airliner.glb",
+      "bytes": 1761804,
+      "sha256": "854ff6d89fdfa549c9c7e56e1fa7a1a9739bdc958beb406e42e0e7e9a625546a",
+      "skins": 0,
+      "joints": 0,
+      "animations": [
+        "flight_bank",
+        "gear_retract",
+        "gear_deploy"
+      ],
+      "meshOrigin": "Hunyuan-derived; some first-person equipment may include previous supporting geometry",
+      "rigAndMotionOrigin": "Hunyuan and/or Blender supplemental rig; includes Blender-authored animation",
+      "runtimeIntegrated": false
+    },
+    {
+      "file": "drone.glb",
+      "bytes": 1695408,
+      "sha256": "579759cb32da7e266610c746fb115cdf5ea7a9e177d8bd42b83e05632268399c",
+      "skins": 0,
+      "joints": 0,
+      "animations": [
+        "hover",
+        "camera_tilt",
+        "rotor_spin"
+      ],
+      "meshOrigin": "Hunyuan-derived; some first-person equipment may include previous supporting geometry",
+      "rigAndMotionOrigin": "Hunyuan and/or Blender supplemental rig; includes Blender-authored animation",
+      "runtimeIntegrated": false
+    }
+  ]
+}
